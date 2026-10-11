@@ -1,0 +1,98 @@
+[
+  {
+    "question": "How do I apply for admission to the college?",
+    "answer": "Complete the online application on the college admissions page, upload your academic records and identification, and submit the application fee. The admissions office will email you when your application is received."
+  },
+  {
+    "question": "What are the eligibility requirements for undergraduate admission?",
+    "answer": "Applicants should have completed high school or an equivalent qualification. Some programs may require specific subjects or minimum grades, so check the program's admissions page."
+  },
+  {
+    "question": "What documents are required for an application?",
+    "answer": "Most applicants need academic transcripts, proof of identity, a completed application form, and any program-specific documents. International applicants may also need English-language proficiency results."
+  },
+  {
+    "question": "When is the application deadline?",
+    "answer": "Application deadlines vary by program and entry term. Please check the admissions calendar on the college website or contact the admissions office for the current dates."
+  },
+  {
+    "question": "How can I check my admission application status?",
+    "answer": "Sign in to the admissions portal with the account you used to apply. You can also contact the admissions office if your portal status has not changed after you submitted all required documents."
+  },
+  {
+    "question": "Which courses and programs does the college offer?",
+    "answer": "The college offers programs in arts and humanities, business, computer science, education, engineering, and sciences. View the academic programs catalog for course descriptions and degree requirements."
+  },
+  {
+    "question": "How do I choose or change my major?",
+    "answer": "Review the program catalog and discuss your options with an academic advisor. Current students can request a major change through the registrar, subject to program availability and requirements."
+  },
+  {
+    "question": "Can I study part-time or take evening classes?",
+    "answer": "Some programs offer part-time study and evening sections. Check the course schedule for available sections and ask your academic advisor whether a part-time plan fits your program."
+  },
+  {
+    "question": "How much is tuition and what are the college fees?",
+    "answer": "Tuition depends on your program, course load, and student status. The current tuition and fee schedule is available from the finance office and on the college website."
+  },
+  {
+    "question": "Are scholarships or financial aid available?",
+    "answer": "The college offers a limited number of scholarships and financial aid options. Submit the financial aid application by its published deadline and contact the financial aid office to discuss eligibility."
+  },
+  {
+    "question": "Can I pay my tuition in installments?",
+    "answer": "Eligible students may be able to use an installment payment plan. Contact the finance office before the tuition due date to review available plans and any associated conditions."
+  },
+  {
+    "question": "How can I get a receipt for a tuition payment?",
+    "answer": "Payment receipts are available in the student billing portal after a payment is processed. If you cannot find a receipt, contact the finance office with your student ID and payment date."
+  },
+  {
+    "question": "What are the college office hours?",
+    "answer": "The main administrative offices are generally open Monday through Friday, 9:00 a.m. to 5:00 p.m., excluding college holidays. Check the college website for updated hours."
+  },
+  {
+    "question": "When are classes held?",
+    "answer": "Class times vary by course and term. Students can see their personal schedule in the student portal after registering for classes."
+  },
+  {
+    "question": "What are the library opening hours?",
+    "answer": "The library is generally open Monday through Friday, 8:00 a.m. to 8:00 p.m., and Saturday, 9:00 a.m. to 2:00 p.m. Hours may change during holidays and examination periods."
+  },
+  {
+    "question": "When do examinations take place?",
+    "answer": "Midterm and final examination dates are published in the academic calendar. Your instructor will share course-specific details and the examination timetable is posted in the student portal."
+  },
+  {
+    "question": "Where can I find my exam timetable?",
+    "answer": "Sign in to the student portal and open the examinations or timetable section. Contact the registrar if an exam is missing or if you see a timetable conflict."
+  },
+  {
+    "question": "What should I do if I miss an examination?",
+    "answer": "Contact your instructor and the registrar as soon as possible. You may be asked to provide documentation and submit a request for a make-up examination under the college's examination policy."
+  },
+  {
+    "question": "How do I get my examination results or transcript?",
+    "answer": "Grades are posted in the student portal after they are approved. Request an official transcript through the registrar's office; processing times and any applicable fees are listed on its website."
+  },
+  {
+    "question": "How can I contact the admissions office?",
+    "answer": "Email admissions@example.edu or call (555) 010-1000 during office hours. These are sample contact details for this demonstration project; replace them with your college's actual details."
+  },
+  {
+    "question": "What is the college's main address?",
+    "answer": "The sample campus address is 100 College Avenue, Example City, ST 00000. This is placeholder information and should be replaced with the correct campus address."
+  },
+  {
+    "question": "How do I contact the IT help desk?",
+    "answer": "Email helpdesk@example.edu or call (555) 010-2000 for help with student accounts, Wi-Fi, or learning systems. These sample contact details should be replaced with your college's actual details."
+  },
+  {
+    "question": "Is student housing available?",
+    "answer": "The college has limited student housing, and spaces may be assigned based on availability. Contact the student services office early for application dates, costs, and housing policies."
+  },
+  {
+    "question": "How can I get a student ID card?",
+    "answer": "After enrollment, visit the student services office with a valid photo ID to request your college ID card. Check the student portal for office hours and any appointment requirements."
+  }
+]
